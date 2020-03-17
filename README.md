@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # voting-system-management
 
+投票系统后台管理端
+
 ## Project setup
 ```
 npm install
@@ -22,8 +24,3 @@ npm run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# -voting-system-management
-投票系统后台管理端
->>>>>>> 465347f0f7105c250b548a03dbd19cc98f2767bf
